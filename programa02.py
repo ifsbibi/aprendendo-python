@@ -3,8 +3,8 @@
 frequencia = int(input("Informe quantos dias o aluno compareceu as aulas: "))
 
 if frequencia > 0 :
-    nota1 = float(input("digte o primeiro número: ")).replace("," , ".")
-    nota2 = float(input("digte o primeiro número: ")).replace("," , ".")
+    nota1 = float(input("digte o primeiro número: ").replace("," , "."))
+    nota2 = float(input("digte o primeiro número: ").replace("," , "."))
 
 media = (nota1 + nota2) /2
 
