@@ -10,8 +10,6 @@ print("o resultado2 é ",resultado2)
 print("o resultado3 é ",resultado3)
 
 
-
-
 print("--------------------------------------------------------------------------")
 print("   OPERADORES RELACIONAIS"      )
 print("--------------------------------------------------------------------------")
