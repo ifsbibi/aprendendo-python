@@ -9,4 +9,4 @@ print(f"Quantos alunos tem na sala:  {len(alunos)}")
 print("--- Iniciando a chamada! ---")
 for i in alunos:
     print(f"Aluno(a) {i} está presente!")
-print("--- Fim da chamada!")
+print("--- Fim da chamada! ---")
