@@ -10,4 +10,3 @@ print(listaNumeros)
 print(f"A soma é : {sum(listaNumeros)}")
 print(f"O maior número é : {max(listaNumeros)}")
 print(f"O menor número é : {min(listaNumeros)}")
-
