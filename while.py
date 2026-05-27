@@ -7,4 +7,3 @@ while continuar == "s":
     continuar = input("Quer continuar? (s/n)").upper()[0]
 
     print(listaIdades)
-
