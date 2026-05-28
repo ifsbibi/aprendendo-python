@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a3fe66-0f90-42a5-b422-73f597fc1e3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas-forwhile/ex20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex02.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex03.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex04.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/ex06.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listas-for/exemplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/exemplo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex03.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex16.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex17.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex18.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas-forwhile/ex19.py" beforeDir="false" afterPath="$PROJECT_DIR$/listas-forwhile/ex19.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +52,17 @@
     "Python.ex07.executor": "Run",
     "Python.ex08.executor": "Run",
     "Python.ex09.executor": "Run",
+    "Python.ex10.executor": "Run",
     "Python.ex11.executor": "Run",
     "Python.ex12.executor": "Run",
     "Python.ex13.executor": "Run",
     "Python.ex14.executor": "Run",
     "Python.ex15.executor": "Run",
+    "Python.ex16.executor": "Run",
+    "Python.ex17.executor": "Run",
+    "Python.ex18.executor": "Run",
+    "Python.ex19.executor": "Run",
+    "Python.ex20.executor": "Run",
     "Python.exemplofor.executor": "Run",
     "Python.while.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -102,7 +94,8 @@
       <workItem from="1779393418860" duration="2548000" />
       <workItem from="1779729876520" duration="10290000" />
       <workItem from="1779815277192" duration="6559000" />
-      <workItem from="1779901928272" duration="10234000" />
+      <workItem from="1779901928272" duration="11331000" />
+      <workItem from="1779988044295" duration="8495000" />
     </task>
     <servers />
   </component>
@@ -111,21 +104,27 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/aprendendo_python$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1779902674152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1780000338304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exemplofor.coverage" NAME="exemplofor Coverage Results" MODIFIED="1779393754590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex15.coverage" NAME="ex15 Coverage Results" MODIFIED="1779913094955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex15.coverage" NAME="ex15 Coverage Results" MODIFIED="1780000669177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex02.coverage" NAME="ex02 Coverage Results" MODIFIED="1779817828438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex06.coverage" NAME="ex06 Coverage Results" MODIFIED="1779816892627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex08.coverage" NAME="ex08 Coverage Results" MODIFIED="1779904212388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1779912373429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex06.coverage" NAME="ex06 Coverage Results" MODIFIED="1780000489273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex08.coverage" NAME="ex08 Coverage Results" MODIFIED="1779999757552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1780000709981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1779989927950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$while.coverage" NAME="while Coverage Results" MODIFIED="1779732562009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex14.coverage" NAME="ex14 Coverage Results" MODIFIED="1779912223719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex05.coverage" NAME="ex05 Coverage Results" MODIFIED="1779818294823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex14.coverage" NAME="ex14 Coverage Results" MODIFIED="1780000645492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex05.coverage" NAME="ex05 Coverage Results" MODIFIED="1780000895429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex09.coverage" NAME="ex09 Coverage Results" MODIFIED="1779905186208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex20.coverage" NAME="ex20 Coverage Results" MODIFIED="1780000752560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex02for.coverage" NAME="ex02for Coverage Results" MODIFIED="1779733005809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex04.coverage" NAME="ex04 Coverage Results" MODIFIED="1779817914302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex04.coverage" NAME="ex04 Coverage Results" MODIFIED="1780000410339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1779817758700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex03.coverage" NAME="ex03 Coverage Results" MODIFIED="1779817838934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1779906704008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex07.coverage" NAME="ex07 Coverage Results" MODIFIED="1779820121125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-for" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex17.coverage" NAME="ex17 Coverage Results" MODIFIED="1780000688860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1780000576837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex03.coverage" NAME="ex03 Coverage Results" MODIFIED="1780000973406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex16.coverage" NAME="ex16 Coverage Results" MODIFIED="1780000679821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1780000616966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex07.coverage" NAME="ex07 Coverage Results" MODIFIED="1780000561148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
   </component>
 </project>

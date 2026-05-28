@@ -4,3 +4,14 @@ notas = 0
 while valor > 0:
 
     for n in cedulas:
+
+        notas = valor // n
+        if n == 10 and valor == 11:
+            continue
+        if notas > 0:
+            print(f"{notas} cédula(s) de R$ {n}")
+            valor %= n
+
+        if valor != 0:
+            print(f"Não foi possível sacar o valor restante de R$ {valor}")
+            break

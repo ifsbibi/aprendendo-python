@@ -1,4 +1,4 @@
-senha = "123"
+senha = [123]
 
 for i in range(3):
     s = input("Digite a senha:")

@@ -5,7 +5,6 @@ pares = []
 
 for i in range (1,11):
     numeros = int(input(f"Digite o {i} número:"))
-    numeros.append(numeros)
 
 for numero in numeros:
     if numero % 2 == 0:
