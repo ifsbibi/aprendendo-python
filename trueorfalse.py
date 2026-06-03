@@ -17,12 +17,3 @@ print(not(18 < 20) and (5 != 5))
 print((0 == 1) or not ((3 >=2) and (4 <=4)))
 
 print(((10 > 5) and not (2 == 3)) or (8 < 4))
-
-
-
-
-
-
-
-
-
