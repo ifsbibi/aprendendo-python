@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a3fe66-0f90-42a5-b422-73f597fc1e3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/listaexplicacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz/exemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/ex05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trueorfalse.py" beforeDir="false" afterPath="$PROJECT_DIR$/trueorfalse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,47 +36,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ex01.executor": "Run",
-    "Python.ex02.executor": "Run",
-    "Python.ex02for.executor": "Run",
-    "Python.ex03.executor": "Run",
-    "Python.ex04.executor": "Run",
-    "Python.ex05.executor": "Run",
-    "Python.ex06.executor": "Run",
-    "Python.ex07.executor": "Run",
-    "Python.ex08.executor": "Run",
-    "Python.ex09.executor": "Run",
-    "Python.ex10.executor": "Run",
-    "Python.ex11.executor": "Run",
-    "Python.ex12.executor": "Run",
-    "Python.ex13.executor": "Run",
-    "Python.ex14.executor": "Run",
-    "Python.ex15.executor": "Run",
-    "Python.ex16.executor": "Run",
-    "Python.ex17.executor": "Run",
-    "Python.ex18.executor": "Run",
-    "Python.ex19.executor": "Run",
-    "Python.ex20.executor": "Run",
-    "Python.exemplo.executor": "Run",
-    "Python.exemplofor.executor": "Run",
-    "Python.matchcase.executor": "Run",
-    "Python.vetor.executor": "Run",
-    "Python.while.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/evilyn61370756/Documents/projeto/aprendendo-python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplofor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matchcase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vetor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/evilyn61370756/Documents/projeto/aprendendo-python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evilyn61370756\Documents\projeto\aprendendo-python" />
@@ -102,7 +104,8 @@
       <workItem from="1779988044295" duration="8578000" />
       <workItem from="1780334883760" duration="8207000" />
       <workItem from="1780421533728" duration="8321000" />
-      <workItem from="1780506618687" duration="5332000" />
+      <workItem from="1780506618687" duration="5635000" />
+      <workItem from="1780939234901" duration="9152000" />
     </task>
     <servers />
   </component>
@@ -110,7 +113,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex02.coverage" NAME="ex02 Coverage Results" MODIFIED="1780430589354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex02.coverage" NAME="ex02 Coverage Results" MODIFIED="1780948045707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex08.coverage" NAME="ex08 Coverage Results" MODIFIED="1779999757552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1780000709981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1779989927950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
@@ -130,7 +133,7 @@
     <SUITE FILE_PATH="coverage/aprendendo_python$ex09.coverage" NAME="ex09 Coverage Results" MODIFIED="1780344649321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex20.coverage" NAME="ex20 Coverage Results" MODIFIED="1780000752560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex04.coverage" NAME="ex04 Coverage Results" MODIFIED="1780431729670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1780430471804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1780941555715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1780343872987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$matchcase.coverage" NAME="matchcase Coverage Results" MODIFIED="1780423186446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex16.coverage" NAME="ex16 Coverage Results" MODIFIED="1780515843919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
