@@ -13,8 +13,10 @@ for i in range(len(buscador)):
             achou = True
             break
 
-        if achou:
+    if achou:
             break
+if not achou:
+    print("O número que você procura não está nessa lista! ")
 
 
 

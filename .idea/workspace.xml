@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a3fe66-0f90-42a5-b422-73f597fc1e3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/matriz/ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matriz/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dicionario/exemplo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matriz/ex04.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matriz/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz/ex08.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matriz/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/matriz/ex10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +106,8 @@
       <workItem from="1780421533728" duration="8321000" />
       <workItem from="1780506618687" duration="5635000" />
       <workItem from="1780939234901" duration="9554000" />
-      <workItem from="1781026021843" duration="8413000" />
+      <workItem from="1781026021843" duration="8844000" />
+      <workItem from="1781111444130" duration="10198000" />
     </task>
     <servers />
   </component>
@@ -133,7 +132,7 @@
     <SUITE FILE_PATH="coverage/aprendendo_python$ex15.coverage" NAME="ex15 Coverage Results" MODIFIED="1780000669177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex06.coverage" NAME="ex06 Coverage Results" MODIFIED="1781035591220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
     <SUITE FILE_PATH="coverage/aprendendo_python$while.coverage" NAME="while Coverage Results" MODIFIED="1779732562009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex09.coverage" NAME="ex09 Coverage Results" MODIFIED="1780344649321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex09.coverage" NAME="ex09 Coverage Results" MODIFIED="1781114983020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex20.coverage" NAME="ex20 Coverage Results" MODIFIED="1780000752560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex04.coverage" NAME="ex04 Coverage Results" MODIFIED="1781031693607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1780941555715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
@@ -141,6 +140,6 @@
     <SUITE FILE_PATH="coverage/aprendendo_python$matchcase.coverage" NAME="matchcase Coverage Results" MODIFIED="1780423186446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex16.coverage" NAME="ex16 Coverage Results" MODIFIED="1780515843919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
     <SUITE FILE_PATH="coverage/aprendendo_python$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1780000616966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$ex07.coverage" NAME="ex07 Coverage Results" MODIFIED="1780000561148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listas-forwhile" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$ex07.coverage" NAME="ex07 Coverage Results" MODIFIED="1781112218133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matriz" />
   </component>
 </project>
